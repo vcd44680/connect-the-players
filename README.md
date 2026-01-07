@@ -1,2 +1,2 @@
 # connect-the-players
-# ummm.... ill figure this out
+umm ill figure this out
